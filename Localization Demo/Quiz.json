@@ -1,0 +1,349 @@
+#  Quiz
+
+{
+  "data": {
+    "lifeAreaId": 1,
+    "lang": [
+      {
+        "en": [
+      {
+        "questionId": 1,
+        "question": "I am able to find the goodness in me and others",
+        "options": [
+          {
+            "id": 1,
+            "name": "Always",
+            "score": 3
+          },
+          {
+            "id": 2,
+            "name": "Sometimes ",
+            "score": 2
+          },
+          {
+            "id": 3,
+            "name": "Rarely",
+            "score": 1
+          },
+          {
+            "id": 4,
+            "name": "Never",
+            "score": 0
+          }
+        ],
+        "type": "objective"
+      },
+      {
+        "questionId": 3,
+        "question": "I have a sense of meaning and purpose in my life",
+        "options": [
+          {
+            "id": 5,
+            "name": "Always",
+            "score": 3
+          },
+          {
+            "id": 6,
+            "name": "Sometimes",
+            "score": 2
+          },
+          {
+            "id": 7,
+            "name": "Rarely",
+            "score": 1
+          },
+          {
+            "id": 8,
+            "name": "Never ",
+            "score": 0
+          }
+        ],
+        "type": "objective"
+      },
+      {
+        "questionId": 4,
+        "question": "I can find the good, even in a difficult situation.",
+        "options": [
+          {
+            "id": 9,
+            "name": "Always ",
+            "score": 3
+          },
+          {
+            "id": 10,
+            "name": "Sometimes",
+            "score": 2
+          },
+          {
+            "id": 11,
+            "name": "Rarely",
+            "score": 1
+          },
+          {
+            "id": 12,
+            "name": "Never",
+            "score": 0
+          }
+        ],
+        "type": "objective"
+      },
+      {
+        "questionId": 5,
+        "question": "I feel grateful for what I have.",
+        "options": [
+          {
+            "id": 13,
+            "name": "Always ",
+            "score": 3
+          },
+          {
+            "id": 14,
+            "name": "Sometimes",
+            "score": 2
+          },
+          {
+            "id": 15,
+            "name": "Rarely",
+            "score": 1
+          },
+          {
+            "id": 16,
+            "name": "Never",
+            "score": 0
+          }
+        ],
+        "type": "objective"
+      }
+    ]
+      },
+      {
+        "hi": [
+          {
+          "questionId": 1,
+          "question":"मैं खुद में और दूसरों में अच्छाई ढूंढने में सक्षम हूं",
+          "options": [
+            {
+              "id": 1,
+              "name":"हमेशा",
+              "score": 3
+            },
+            {
+              "id": 2,
+              "name": "कभी-कभी",
+              "score": 2
+            },
+            {
+              "id": 3,
+              "name": "कभी-कभार",
+              "score": 1
+            },
+            {
+              "id": 4,
+              "name": "कभी नहीं",
+              "score": 0
+            }
+          ],
+          "type": "objective"
+        },
+        {
+          "questionId": 3,
+          "question": "मुझे अपने जीवन के अर्थ और उद्देश्य का एहसास है",
+
+          "options": [
+            {
+              "id": 5,
+              "name": "हमेशा ",
+              "score": 3
+            },
+            {
+              "id": 6,
+              "name": "कभी-कभी",
+              "score": 2
+            },
+            {
+              "id": 7,
+              "name": "कभी-कभार",
+              "score": 1
+            },
+            {
+              "id": 8,
+              "name": "कभी नहीं",
+              "score": 0
+            }
+          ],
+          "type": "objective"
+        },
+        {
+          "questionId": 4,
+          "question": "मैं कठिन परिस्थिति में भी अच्छाई ढूंढ सकता हूं।",
+          "options": [
+            {
+              "id": 9,
+              "name": "हमेशा ",
+              "score": 3
+            },
+            {
+              "id": 10,
+              "name": "कभी-कभी",
+              "score": 2
+            },
+            {
+              "id": 11,
+              "name": "कभी-कभार",
+              "score": 1
+            },
+            {
+              "id": 12,
+              "name": "कभी नहीं",
+              "score": 0
+            }
+          ],
+          "type": "objective"
+        },
+        {
+          "questionId": 5,
+          "question": "मेरे पास जो कुछ है उसके लिए मैं आभारी महसूस करता हूं।",
+          "options": [
+            {
+              "id": 13,
+              "name": "हमेशा ",
+              "score": 3
+            },
+            {
+              "id": 14,
+              "name": "कभी-कभी",
+              "score": 2
+            },
+            {
+              "id": 15,
+              "name": "कभी-कभार",
+              "score": 1
+            },
+            {
+              "id": 16,
+              "name": "कभी नहीं",
+              "score": 0
+            }
+          ],
+          "type": "objective"
+        }]
+      },
+      {
+        "es": [
+          {
+          "questionId": 1,
+          "question":"Soy capaz de encontrar lo bueno en mí y en los demás.",
+          "options": [
+            {
+              "id": 1,
+              "name":"Siempre",
+              "score": 3
+            },
+            {
+              "id": 2,
+              "name": "A veces",
+              "score": 2
+            },
+            {
+              "id": 3,
+              "name": "casi nunca",
+              "score": 1
+            },
+            {
+              "id": 4,
+              "name": "Nunca",
+              "score": 0
+            }
+          ],
+          "type": "objective"
+        },
+          {
+            "questionId": 3,
+            "question": "Me doy cuenta del significado y propósito de mi vida.",
+
+            "options": [
+              {
+                "id": 5,
+                "name": "Siempre ",
+                "score": 3
+              },
+              {
+                "id": 6,
+                "name": "A veces",
+                "score": 2
+              },
+              {
+                "id": 7,
+                "name": "casi nunca",
+                "score": 1
+              },
+              {
+                "id": 8,
+                "name": "Nunca",
+                "score": 0
+              }
+            ],
+            "type": "objective"
+          },
+          {
+            "questionId": 4,
+            "question": "Puedo encontrar lo bueno incluso en situaciones difíciles.",
+            "options": [
+              {
+                "id": 9,
+                "name": "Siempre ",
+                "score": 3
+              },
+              {
+                "id": 10,
+                "name": "A veces",
+                "score": 2
+              },
+              {
+                "id": 11,
+                "name": "casi nunca",
+                "score": 1
+              },
+              {
+                "id": 12,
+                "name": "Nunca",
+                "score": 0
+              }
+            ],
+            "type": "objective"
+          },
+          {
+            "questionId": 5,
+            "question": "Me siento agradecido por lo que tengo.",
+            "options": [
+              {
+                "id": 13,
+                "name": "Siempre ",
+                "score": 3
+              },
+              {
+                "id": 14,
+                "name": "A veces",
+                "score": 2
+              },
+              {
+                "id": 15,
+                "name": "casi nunca",
+                "score": 1
+              },
+              {
+                "id": 16,
+                "name": "Nunca",
+                "score": 0
+              }
+            ],
+            "type": "objective"
+          }
+        ]
+      }
+
+    ]
+  }
+}
+
+

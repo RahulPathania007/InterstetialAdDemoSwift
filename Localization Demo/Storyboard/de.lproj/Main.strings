@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RrQ-Wv-UrV"; */
+"RrQ-Wv-UrV.text" = "Label";
+
+/* Class = "UILabel"; text = "Select App Language"; ObjectID = "ai8-Tv-2jI"; */
+"ai8-Tv-2jI.text" = "Select App Language";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "efG-cY-d2K"; */
+"efG-cY-d2K.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "efG-cY-d2K"; */
+"efG-cY-d2K.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "wZc-vU-mzX"; */
+"wZc-vU-mzX.normalTitle" = "Change Language";
