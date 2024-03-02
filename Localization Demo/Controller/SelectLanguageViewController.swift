@@ -90,6 +90,7 @@ extension SelectLanguageViewController: UITableViewDelegate, UITableViewDataSour
 //        }
         
         
+        
         //For single select
         if selectedLang.rawValue == Constant.languages[indexPath.row].rawValue{
             selectedLang = .def
